@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_estadisticas"
+        android:icon="@drawable/ic_pedidos"
+        android:title="Pedidos" />
+    <item android:id="@+id/nav_categoria"
+        android:title="Categoria"
+        android:icon="@drawable/ic_categoria"
+        />
+    <item android:id="@+id/nav_crear"
+        android:title="Crear"
+        android:icon="@drawable/ic_crear"
+        />
+    <item android:id="@+id/nav_ajustes"
+        android:title="Ajustes"
+        android:icon="@drawable/ic_ajustes"
+        />
+</menu>

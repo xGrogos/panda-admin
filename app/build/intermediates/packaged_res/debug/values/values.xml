@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="category_array_list">
+        <item>Seleccione su categoria.</item>
+        <item>Pantalon</item>
+        <item>Zapatos</item>
+        <item>Camiseta</item>
+    </string-array>
+    <color name="black">#FF525252</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="purple_200">#FF525252</color>
+    <color name="purple_500">#FFb7b7b7</color>
+    <color name="purple_700">#FF525252</color>
+    <color name="teal_200">#FF525252</color>
+    <color name="teal_700">#FF8c8c8c</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Panda Admin</string>
+    <string name="default_web_client_id" translatable="false">974950223122-vgv2e49dsnupl3fvlmke5eqn322u5dbq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://panda-f18d4-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">974950223122</string>
+    <string name="google_api_key" translatable="false">AIzaSyALB83k2pJQXgLQFaKHdCT46CUbtabtPbw</string>
+    <string name="google_app_id" translatable="false">1:974950223122:android:1fdd648bf3b4ae418cb7cb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyALB83k2pJQXgLQFaKHdCT46CUbtabtPbw</string>
+    <string name="google_storage_bucket" translatable="false">panda-f18d4.appspot.com</string>
+    <string name="hello_blank_fragment">On development.</string>
+    <string name="project_id" translatable="false">panda-f18d4</string>
+    <style name="Theme.PandaAdmin" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
