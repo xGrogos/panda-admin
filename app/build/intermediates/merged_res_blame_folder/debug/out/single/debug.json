@@ -1,150 +1,146 @@
 [
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\drawable_ic_categoria.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\drawable\\ic_categoria.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\layout\\activity_main.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/layout_fragment_ajustes.xml.flat",
+        "source": "com.panda.admin.app-main-39:/layout/fragment_ajustes.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "com.panda.admin.app-merged_res-37:/drawable_logo_no_background.png.flat",
+        "source": "com.panda.admin.app-main-39:/drawable/logo_no_background.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\drawable_ic_upload.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\drawable\\ic_upload.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "com.panda.admin.app-merged_res-37:/drawable_ic_upload.xml.flat",
+        "source": "com.panda.admin.app-main-39:/drawable/ic_upload.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\xml\\backup_rules.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\drawable_roundstyle.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\drawable\\roundstyle.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "com.panda.admin.app-merged_res-37:/layout_fragment_crear.xml.flat",
         "source": "com.panda.admin.app-main-39:/layout/fragment_crear.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\menu_bottom_navigation.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\menu\\bottom_navigation.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "com.panda.admin.app-main-39:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\layout_fragment_ajustes.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\layout\\fragment_ajustes.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/layout_fragment_pedidos.xml.flat",
+        "source": "com.panda.admin.app-main-39:/layout/fragment_pedidos.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\drawable_brand_logo.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\drawable\\brand_logo.png"
+        "merged": "com.panda.admin.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "com.panda.admin.app-main-39:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/menu_bottom_navigation.xml.flat",
+        "source": "com.panda.admin.app-main-39:/menu/bottom_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\drawable_ic_camera.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\drawable\\ic_camera.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\layout_home.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\layout\\home.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/layout_fragment_categoria.xml.flat",
+        "source": "com.panda.admin.app-main-39:/layout/fragment_categoria.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\layout_fragment_pedidos.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\layout\\fragment_pedidos.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/drawable_brand_logo.png.flat",
+        "source": "com.panda.admin.app-main-39:/drawable/brand_logo.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\xml\\data_extraction_rules.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/layout_lista_pieza.xml.flat",
+        "source": "com.panda.admin.app-main-39:/layout/lista_pieza.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\drawable_logo_no_background.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\drawable\\logo_no_background.png"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\drawable_ic_pedidos.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\drawable\\ic_pedidos.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.panda.admin.app-main-39:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\layout_fragment_crear.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\layout\\fragment_crear.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/drawable_ic_crear.xml.flat",
+        "source": "com.panda.admin.app-main-39:/drawable/ic_crear.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "com.panda.admin.app-merged_res-37:/drawable_roundstyle.xml.flat",
+        "source": "com.panda.admin.app-main-39:/drawable/roundstyle.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\drawable_ic_crear.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\drawable\\ic_crear.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/drawable_ic_categoria.xml.flat",
+        "source": "com.panda.admin.app-main-39:/drawable/ic_categoria.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\layout_fragment_categoria.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\layout\\fragment_categoria.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/drawable_ic_camera.xml.flat",
+        "source": "com.panda.admin.app-main-39:/drawable/ic_camera.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\layout_lista_pieza.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\layout\\lista_pieza.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "com.panda.admin.app-merged_res-37:/drawable_ic_pedidos.xml.flat",
+        "source": "com.panda.admin.app-main-39:/drawable/ic_pedidos.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\drawable_ic_ajustes.xml.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\drawable\\ic_ajustes.xml"
+        "merged": "com.panda.admin.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.panda.admin.app-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "com.panda.admin.app-merged_res-37:/layout_home.xml.flat",
+        "source": "com.panda.admin.app-main-39:/layout/home.xml"
     },
     {
-        "merged": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Hajime\\.gradle\\daemon\\7.5\\com.panda.admin.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "com.panda.admin.app-merged_res-37:/drawable_ic_ajustes.xml.flat",
+        "source": "com.panda.admin.app-main-39:/drawable/ic_ajustes.xml"
     }
 ]

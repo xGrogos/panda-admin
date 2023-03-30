@@ -6,27 +6,27 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml
+8-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml
+9-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.CAMERA" />
-11-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:6:5-65
-11-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:6:22-62
+11-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:6:5-65
+11-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:6:22-62
 12
 13    <uses-feature android:name="android.hardware.camera" />
-13-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:7:5-60
-13-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:7:19-57
+13-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:7:5-60
+13-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:7:19-57
 14
 15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-15-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:8:5-80
-15-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:8:22-77
+15-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:8:5-80
+15-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:8:22-77
 16    <uses-permission android:name="android.permission.INTERNET" />
-16-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:9:5-67
-16-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:9:22-64
+16-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:9:5-67
+16-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:9:22-64
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-17-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:10:5-79
-17-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:10:22-76
+17-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:10:5-79
+17-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:10:22-76
 18
 19    <permission
 19-->[androidx.core:core:1.9.0] C:\Users\Hajime\.gradle\caches\transforms-3\8ff302c7f6d454fda49235c26b107863\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
@@ -40,52 +40,52 @@
 23-->[androidx.core:core:1.9.0] C:\Users\Hajime\.gradle\caches\transforms-3\8ff302c7f6d454fda49235c26b107863\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 24
 25    <application
-25-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:11:5-37:19
+25-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:11:5-37:19
 26        android:allowBackup="true"
-26-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:12:9-35
+26-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:12:9-35
 27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 27-->[androidx.core:core:1.9.0] C:\Users\Hajime\.gradle\caches\transforms-3\8ff302c7f6d454fda49235c26b107863\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 28        android:dataExtractionRules="@xml/data_extraction_rules"
-28-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:13:9-65
+28-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:13:9-65
 29        android:debuggable="true"
 30        android:fullBackupContent="@xml/backup_rules"
-30-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:14:9-54
+30-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:14:9-54
 31        android:icon="@mipmap/ic_launcher"
-31-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:15:9-43
+31-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:15:9-43
 32        android:label="@string/app_name"
-32-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:16:9-41
+32-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:16:9-41
 33        android:roundIcon="@mipmap/ic_launcher_round"
-33-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:17:9-54
+33-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:17:9-54
 34        android:supportsRtl="true"
-34-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:18:9-35
+34-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:18:9-35
 35        android:testOnly="true"
 36        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-36-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:19:9-65
+36-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:19:9-65
 37        <activity
-37-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:21:9-31:20
+37-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:21:9-31:20
 38            android:name="com.panda.admin.HomeActivity"
-38-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:22:13-41
+38-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:22:13-41
 39            android:exported="true"
-39-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:24:13-36
+39-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:24:13-36
 40            android:windowSoftInputMode="adjustPan" >
-40-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:23:13-52
+40-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:23:13-52
 41            <intent-filter>
-41-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:26:13-30:29
+41-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:26:13-30:29
 42                <action android:name="android.intent.action.MAIN" />
-42-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:27:17-69
-42-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:27:25-66
+42-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:27:17-69
+42-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:27:25-66
 43
 44                <category android:name="android.intent.category.LAUNCHER" />
-44-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:29:17-77
-44-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:29:27-74
+44-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:29:17-77
+44-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:29:27-74
 45            </intent-filter>
 46        </activity>
 47        <activity
-47-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:32:9-36:20
+47-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:32:9-36:20
 48            android:name="com.panda.admin.MainActivity"
-48-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:33:13-41
+48-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:33:13-41
 49            android:exported="false" >
-49-->C:\Users\Hajime\AndroidStudioProjects\PandaAdmin\app\src\main\AndroidManifest.xml:34:13-37
+49-->C:\Users\Hajime\AndroidStudioProjects\panda-admin\app\src\main\AndroidManifest.xml:34:13-37
 50        </activity>
 51
 52        <service
