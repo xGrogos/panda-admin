@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Panda Admin</string>
+    <string-array name="category_array_list">
+        <item>Seleccione su categoria.</item>
+        <item>Pantalon</item>
+        <item>Zapatos</item>
+        <item>Camiseta</item>
+    </string-array>
+    <string name="hello_blank_fragment">On development.</string>
+</resources>
