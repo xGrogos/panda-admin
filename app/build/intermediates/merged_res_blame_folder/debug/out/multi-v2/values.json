@@ -4,20 +4,37 @@
             "outputFile": "com.panda.admin.app-mergeDebugResources-35:/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hajime\\AndroidStudioProjects\\panda-admin\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\Hajime\\AndroidStudioProjects\\PandaAdmin\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "286,55,102,149,196,241,328",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "323,97,144,191,236,281,365"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,337,419,523,632,752,847",
+                        "endColumns": "143,137,81,103,108,119,94,71",
+                        "endOffsets": "194,332,414,518,627,747,842,914"
                     },
                     "to": {
-                        "startLines": "625,891,892,893,904,905,908",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "31779,51098,51145,51192,51936,51981,52147",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "31816,51140,51187,51234,51976,52021,52184"
+                        "startLines": "1857,1868,1869,1870,1871,1872,1873,1984",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "121326,122313,122451,122533,122637,122746,122866,139212",
+                        "endColumns": "143,137,81,103,108,119,94,71",
+                        "endOffsets": "121465,122446,122528,122632,122741,122861,122956,139279"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Hajime\\AndroidStudioProjects\\PandaAdmin\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "695",
+                        "startColumns": "4",
+                        "startOffsets": "36735",
+                        "endColumns": "56",
+                        "endOffsets": "36787"
                     }
                 },
                 {
@@ -148,6 +165,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Hajime\\AndroidStudioProjects\\PandaAdmin\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "286,55,102,149,196,241,328",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "323,97,144,191,236,281,365"
+                    },
+                    "to": {
+                        "startLines": "625,891,892,893,904,905,908",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "31779,51098,51145,51192,51936,51981,52147",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "31816,51140,51187,51234,51976,52021,52184"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Hajime\\.gradle\\caches\\transforms-3\\bdeb1260f5beb8da007d11a305f0aa65\\transformed\\media-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,5,6,7,8,10,11,12,13,14",
@@ -184,25 +218,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hajime\\AndroidStudioProjects\\panda-admin\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "104",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "823"
-                    },
-                    "to": {
-                        "startLines": "6273",
-                        "startColumns": "4",
-                        "startOffsets": "435847",
-                        "endLines": "6285",
-                        "endColumns": "12",
-                        "endOffsets": "436443"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Hajime\\.gradle\\caches\\transforms-3\\6516cd0937eddee9e2aeee53f8078f47\\transformed\\appcompat-resources-1.6.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -222,20 +237,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hajime\\AndroidStudioProjects\\panda-admin\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "source": "C:\\Users\\Hajime\\AndroidStudioProjects\\PandaAdmin\\app\\src\\main\\res\\values\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "56",
-                        "endOffsets": "107"
+                        "startOffsets": "104",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "823"
                     },
                     "to": {
-                        "startLines": "695",
+                        "startLines": "6273",
                         "startColumns": "4",
-                        "startOffsets": "36735",
-                        "endColumns": "56",
-                        "endOffsets": "36787"
+                        "startOffsets": "435847",
+                        "endLines": "6285",
+                        "endColumns": "12",
+                        "endOffsets": "436443"
                     }
                 },
                 {
@@ -330,7 +347,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hajime\\AndroidStudioProjects\\panda-admin\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Hajime\\AndroidStudioProjects\\PandaAdmin\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2,1,8",
                         "startColumns": "4,4,4",
@@ -346,23 +363,6 @@
                         "endLines": "7,1826,1874",
                         "endColumns": "19,48,64",
                         "endOffsets": "346,117304,123021"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Hajime\\AndroidStudioProjects\\panda-admin\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,337,419,523,632,752,847",
-                        "endColumns": "143,137,81,103,108,119,94,71",
-                        "endOffsets": "194,332,414,518,627,747,842,914"
-                    },
-                    "to": {
-                        "startLines": "1857,1868,1869,1870,1871,1872,1873,1984",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "121326,122313,122451,122533,122637,122746,122866,139212",
-                        "endColumns": "143,137,81,103,108,119,94,71",
-                        "endOffsets": "121465,122446,122528,122632,122741,122861,122956,139279"
                     }
                 },
                 {

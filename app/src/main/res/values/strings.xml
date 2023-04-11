@@ -6,5 +6,6 @@
         <item>Zapatos</item>
         <item>Camiseta</item>
     </string-array>
+    <string name="logout">Log-Out</string>
     <string name="hello_blank_fragment">On development.</string>
 </resources>
