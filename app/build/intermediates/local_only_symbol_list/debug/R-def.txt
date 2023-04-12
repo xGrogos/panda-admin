@@ -21,10 +21,12 @@ drawable roundstyle
 id bottomNavigationView
 id btnAddProduct
 id btnGallery
+id btnLogout
 id btnPicture
 id buttonSignIn
 id colorPieza
 id fragment_container
+id frameLayout
 id imageView
 id imageView3
 id linearLayout
@@ -33,7 +35,6 @@ id marcaPieza
 id nav_ajustes
 id nav_categoria
 id nav_crear
-id nav_estadisticas
 id nombrePieza
 id piezaCategoria
 id piezaColor
@@ -47,7 +48,6 @@ layout activity_main
 layout fragment_ajustes
 layout fragment_categoria
 layout fragment_crear
-layout fragment_pedidos
 layout home
 layout lista_pieza
 menu bottom_navigation
@@ -63,6 +63,7 @@ string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
 string hello_blank_fragment
+string logout
 string project_id
 style Theme.PandaAdmin
 xml backup_rules

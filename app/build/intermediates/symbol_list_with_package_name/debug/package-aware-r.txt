@@ -2970,6 +2970,7 @@ id browser_actions_menu_items
 id browser_actions_menu_view
 id btnAddProduct
 id btnGallery
+id btnLogout
 id btnPicture
 id buttonPanel
 id buttonSignIn
@@ -3074,6 +3075,7 @@ id floating
 id forever
 id fragment_container
 id fragment_container_view_tag
+id frameLayout
 id frost
 id fullscreen_header
 id ghost_view
@@ -3188,7 +3190,6 @@ id multiply
 id nav_ajustes
 id nav_categoria
 id nav_crear
-id nav_estadisticas
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3524,7 +3525,6 @@ layout design_text_input_start_icon
 layout fragment_ajustes
 layout fragment_categoria
 layout fragment_crear
-layout fragment_pedidos
 layout home
 layout lista_pieza
 layout m3_alert_dialog
@@ -3681,6 +3681,7 @@ string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string logout
 string m3_sys_motion_easing_emphasized
 string m3_sys_motion_easing_emphasized_accelerate
 string m3_sys_motion_easing_emphasized_decelerate

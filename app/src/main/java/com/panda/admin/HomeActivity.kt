@@ -8,7 +8,6 @@ import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.panda.admin.navbar.ajustes
 import com.panda.admin.navbar.categoria
 import com.panda.admin.navbar.crear
-import com.panda.admin.navbar.pedidos
 
 class HomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -18,10 +17,6 @@ class HomeActivity : AppCompatActivity() {
 
         bottomNav.setOnItemSelectedListener { item: MenuItem ->
             when (item.itemId) {
-                R.id.nav_estadisticas -> {
-                    loadFragment(pedidos())
-                    true
-                }
                 R.id.nav_categoria -> {
                     loadFragment(categoria())
                     true

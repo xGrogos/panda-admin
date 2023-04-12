@@ -8,7 +8,7 @@
     tools:context=".navbar.ajustes">
 
     <Button
-        android:id="@+id/btnLogout2"
+        android:id="@+id/btnLogout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"

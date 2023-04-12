@@ -23,6 +23,7 @@
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyALB83k2pJQXgLQFaKHdCT46CUbtabtPbw</string>
     <string name="google_storage_bucket" translatable="false">panda-f18d4.appspot.com</string>
     <string name="hello_blank_fragment">On development.</string>
+    <string name="logout">Log-Out</string>
     <string name="project_id" translatable="false">panda-f18d4</string>
     <style name="Theme.PandaAdmin" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         

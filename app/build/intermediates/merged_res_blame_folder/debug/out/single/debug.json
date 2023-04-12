@@ -56,10 +56,6 @@
         "source": "com.panda.admin.app-main-39:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.panda.admin.app-merged_res-37:/layout_fragment_pedidos.xml.flat",
-        "source": "com.panda.admin.app-main-39:/layout/fragment_pedidos.xml"
-    },
-    {
         "merged": "com.panda.admin.app-merged_res-37:/xml_backup_rules.xml.flat",
         "source": "com.panda.admin.app-main-39:/xml/backup_rules.xml"
     },
