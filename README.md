@@ -1,3 +1,3 @@
 # panda-admin
 
-1 URL video: https://www.youtube.com/watch?v=NJh-tGNr9Aw
+Demostración del uso de la applicación: https://www.youtube.com/watch?v=NJh-tGNr9Aw
