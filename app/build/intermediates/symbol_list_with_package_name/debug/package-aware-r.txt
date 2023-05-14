@@ -3091,6 +3091,7 @@ id header_title
 id hideable
 id home
 id homeAsUp
+id home_screen
 id honorRequest
 id horizontal_only
 id icon
@@ -4517,6 +4518,8 @@ style ThemeOverlay_MaterialComponents_TimePicker_Display_TextInputEditText
 style ThemeOverlay_MaterialComponents_Toolbar_Popup_Primary
 style ThemeOverlay_MaterialComponents_Toolbar_Primary
 style ThemeOverlay_MaterialComponents_Toolbar_Surface
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
 style Widget_AppCompat_ActionBar
 style Widget_AppCompat_ActionBar_Solid
 style Widget_AppCompat_ActionBar_TabBar

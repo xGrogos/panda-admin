@@ -27,6 +27,7 @@ id buttonSignIn
 id colorPieza
 id fragment_container
 id frameLayout
+id home_screen
 id imageView
 id imageView3
 id linearLayout

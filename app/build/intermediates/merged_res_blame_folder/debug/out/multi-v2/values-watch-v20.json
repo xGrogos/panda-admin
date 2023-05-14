@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.panda.admin.app-mergeDebugResources-35:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.panda.admin.app-mergeDebugResources-36:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Hajime\\.gradle\\caches\\transforms-3\\17c5ef18115a38a7d5966a6140ccff91\\transformed\\play-services-auth-20.4.1\\res\\values-watch-v20\\values.xml",

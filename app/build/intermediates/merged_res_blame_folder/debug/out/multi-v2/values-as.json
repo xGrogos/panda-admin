@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.panda.admin.app-mergeDebugResources-35:/values-as/values-as.xml",
+            "outputFile": "com.panda.admin.app-mergeDebugResources-36:/values-as/values-as.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Hajime\\.gradle\\caches\\transforms-3\\58c0cef124a181cdeb35cc9322ea8bec\\transformed\\appcompat-1.6.1\\res\\values-as\\values-as.xml",

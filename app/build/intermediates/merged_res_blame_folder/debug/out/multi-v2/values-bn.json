@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.panda.admin.app-mergeDebugResources-35:/values-bn/values-bn.xml",
+            "outputFile": "com.panda.admin.app-mergeDebugResources-36:/values-bn/values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Hajime\\.gradle\\caches\\transforms-3\\4f1c429d3b4b9c1ce8b959e5ce101120\\transformed\\play-services-basement-18.1.0\\res\\values-bn\\values.xml",

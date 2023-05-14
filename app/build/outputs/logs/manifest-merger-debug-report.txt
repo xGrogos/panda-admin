@@ -41,6 +41,7 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Hajime\.g
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hajime\.gradle\caches\transforms-3\7be712431e2728e75f1fb482e69271f1\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Hajime\.gradle\caches\transforms-3\1239ea7aa3da1175645296d8fec8de9e\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Hajime\.gradle\caches\transforms-3\afdd926fe02944c5125c4b686c819e4b\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.ext:junit-ktx:1.1.5] C:\Users\Hajime\.gradle\caches\transforms-3\920e611e5538cfaf331d7836293555d8\transformed\junit-ktx-1.1.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Hajime\.gradle\caches\transforms-3\28d36f20ad897c95006a474da6ece244\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hajime\.gradle\caches\transforms-3\e4a0b8ed9551a366dedd0e5cc0f731ab\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Hajime\.gradle\caches\transforms-3\b2f74a5ef9c3d5b05e820042d57de226\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
@@ -59,6 +60,11 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ha
 MERGED from [androidx.core:core:1.9.0] C:\Users\Hajime\.gradle\caches\transforms-3\8ff302c7f6d454fda49235c26b107863\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Hajime\.gradle\caches\transforms-3\295147b0148c33611b61492d303a8c11\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Hajime\.gradle\caches\transforms-3\d617b9aad5be42195a4b2d807b412e2c\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.ext:junit:1.1.5] C:\Users\Hajime\.gradle\caches\transforms-3\81c9cb135c6bc002550f449d4542cb7e\transformed\junit-1.1.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.test.services:storage:1.4.2] C:\Users\Hajime\.gradle\caches\transforms-3\ff0fd426668f736bea9d157b0c1d9e25\transformed\storage-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.6.1] C:\Users\Hajime\.gradle\caches\transforms-3\a2d37091e3eeed40ee03bbe293a3f546\transformed\monitor-1.6.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:annotation:1.0.1] C:\Users\Hajime\.gradle\caches\transforms-3\47b3d4c478200639594696f64d2d7a06\transformed\annotation-1.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Hajime\.gradle\caches\transforms-3\f4751e30a04802b26d7561861e13661f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.15.0] C:\Users\Hajime\.gradle\caches\transforms-3\c998ed77f8131e887b5dbb42165551fe\transformed\gifdecoder-4.15.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Hajime\.gradle\caches\transforms-3\45257434ee612e4f1dfecfcd996ecdab\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
@@ -184,6 +190,8 @@ MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hajime\.gradle\caches\transf
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hajime\.gradle\caches\transforms-3\e4a0b8ed9551a366dedd0e5cc0f731ab\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.core:core:1.9.0] C:\Users\Hajime\.gradle\caches\transforms-3\8ff302c7f6d454fda49235c26b107863\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
 MERGED from [androidx.core:core:1.9.0] C:\Users\Hajime\.gradle\caches\transforms-3\8ff302c7f6d454fda49235c26b107863\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:26:5-51:19
 MERGED from [com.github.bumptech.glide:gifdecoder:4.15.0] C:\Users\Hajime\.gradle\caches\transforms-3\c998ed77f8131e887b5dbb42165551fe\transformed\gifdecoder-4.15.0\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.15.0] C:\Users\Hajime\.gradle\caches\transforms-3\c998ed77f8131e887b5dbb42165551fe\transformed\gifdecoder-4.15.0\AndroidManifest.xml:9:5-20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hajime\.gradle\caches\transforms-3\acd69c42e706ddbfd9111f040bbf07ae\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
@@ -314,6 +322,8 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Hajime\.grad
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Hajime\.gradle\caches\transforms-3\1239ea7aa3da1175645296d8fec8de9e\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Hajime\.gradle\caches\transforms-3\afdd926fe02944c5125c4b686c819e4b\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Hajime\.gradle\caches\transforms-3\afdd926fe02944c5125c4b686c819e4b\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit-ktx:1.1.5] C:\Users\Hajime\.gradle\caches\transforms-3\920e611e5538cfaf331d7836293555d8\transformed\junit-ktx-1.1.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit-ktx:1.1.5] C:\Users\Hajime\.gradle\caches\transforms-3\920e611e5538cfaf331d7836293555d8\transformed\junit-ktx-1.1.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Hajime\.gradle\caches\transforms-3\28d36f20ad897c95006a474da6ece244\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Hajime\.gradle\caches\transforms-3\28d36f20ad897c95006a474da6ece244\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hajime\.gradle\caches\transforms-3\e4a0b8ed9551a366dedd0e5cc0f731ab\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
@@ -350,6 +360,16 @@ MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Hajime\.gradle\caches\transf
 MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Hajime\.gradle\caches\transforms-3\295147b0148c33611b61492d303a8c11\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Hajime\.gradle\caches\transforms-3\d617b9aad5be42195a4b2d807b412e2c\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Hajime\.gradle\caches\transforms-3\d617b9aad5be42195a4b2d807b412e2c\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.1.5] C:\Users\Hajime\.gradle\caches\transforms-3\81c9cb135c6bc002550f449d4542cb7e\transformed\junit-1.1.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.1.5] C:\Users\Hajime\.gradle\caches\transforms-3\81c9cb135c6bc002550f449d4542cb7e\transformed\junit-1.1.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.2] C:\Users\Hajime\.gradle\caches\transforms-3\ff0fd426668f736bea9d157b0c1d9e25\transformed\storage-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.2] C:\Users\Hajime\.gradle\caches\transforms-3\ff0fd426668f736bea9d157b0c1d9e25\transformed\storage-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.6.1] C:\Users\Hajime\.gradle\caches\transforms-3\a2d37091e3eeed40ee03bbe293a3f546\transformed\monitor-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.6.1] C:\Users\Hajime\.gradle\caches\transforms-3\a2d37091e3eeed40ee03bbe293a3f546\transformed\monitor-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:annotation:1.0.1] C:\Users\Hajime\.gradle\caches\transforms-3\47b3d4c478200639594696f64d2d7a06\transformed\annotation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:annotation:1.0.1] C:\Users\Hajime\.gradle\caches\transforms-3\47b3d4c478200639594696f64d2d7a06\transformed\annotation-1.0.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Hajime\.gradle\caches\transforms-3\f4751e30a04802b26d7561861e13661f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Hajime\.gradle\caches\transforms-3\f4751e30a04802b26d7561861e13661f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:gifdecoder:4.15.0] C:\Users\Hajime\.gradle\caches\transforms-3\c998ed77f8131e887b5dbb42165551fe\transformed\gifdecoder-4.15.0\AndroidManifest.xml:5:5-7:41
@@ -616,6 +636,38 @@ uses-permission#com.panda.admin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.9.0] C:\Users\Hajime\.gradle\caches\transforms-3\8ff302c7f6d454fda49235c26b107863\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.9.0] C:\Users\Hajime\.gradle\caches\transforms-3\8ff302c7f6d454fda49235c26b107863\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:24:22-69
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:28:13-99
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from [androidx.test:core:1.5.0] C:\Users\Hajime\.gradle\caches\transforms-3\88b858cc3bcc2b336041ea718b504985\transformed\core-1.5.0\AndroidManifest.xml:44:13-103
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hajime\.gradle\caches\transforms-3\acd69c42e706ddbfd9111f040bbf07ae\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
 	android:value
